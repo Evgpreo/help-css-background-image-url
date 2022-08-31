@@ -1,6 +1,8 @@
-/*Header */
+/*Header 1*/
 .header {
 	min-height: 100vh;
 	background-color: #E3EFF4;
 	background-image: url("./../img/header/header-bg.jpg");
+	background-size: cover;
+	background-position: center center;
 }
